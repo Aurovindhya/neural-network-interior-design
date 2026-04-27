@@ -66,7 +66,7 @@ interior-style-nn/
 If you just want to run the API with the pretrained weights:
 
 ```bash
-git clone https://github.com/yourusername/interior-style-nn
+git clone https://github.com/Aurovindhya/interior-style-nn
 cd interior-style-nn
 pip install -r requirements.txt
 cp .env.example .env   # add your Langfuse keys
